@@ -18,14 +18,14 @@ Knowledge is power and it should spread across the world! 💪
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
 </a>
 
-<a href="https://www.linkedin.com/in/oguzhan-cavdar/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/oguzhan-cavdar/">
+<a href="https://www.linkedin.com/in/aysel-misrikhanova-cavdar/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/aysel-misrikhanova-cavdar/">
 </a>
-<a href="https://www.instagram.com/ogzhncvdr/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/ogzhncvdr/">
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="#">
 </a>
-<a href="mailto:oguzhancavdar06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:oguzhancavdar06@gmail.com">
+<a href="misrikhanova.aysel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:misrikhanova.aysel@gmail.com">
 </a>
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="#">
