@@ -14,10 +14,6 @@ I prefer React & React Native for web/mobile front-end, node.js technologies for
 You may find some experimental and forked projects on my repos, feel free to contribute or using them.
 Knowledge is power and it should spread across the world! 💪
 
-<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
-    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
-</a>
-
 <a href="https://www.linkedin.com/in/aysel-misrikhanova-cavdar/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/aysel-misrikhanova-cavdar/">
 </a>
