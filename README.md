@@ -11,7 +11,7 @@ I prefer React & React Native for web/mobile front-end, node.js technologies for
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
-You may find some experimental and forked projects on my repos, feel free to contribute or using them.
+You may find some experimental and forked projects on my repo, feel free to contribute or using them.
 Knowledge is power and it should spread across the world! 💪
 
 <a href="https://www.linkedin.com/in/aysel-misrikhanova-cavdar/" target="_blank">
