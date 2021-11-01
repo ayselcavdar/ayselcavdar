@@ -6,7 +6,7 @@
 I prefer React & React Native for web/mobile front-end, node.js technologies for back-end development.
 <br/>
 
-- 🔭 I’m currently working on back-end development 
+- 🔭 I’m currently working on front-end development 
 - 🌱 I’m currently learning Node.js | MongoDB | Django
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
