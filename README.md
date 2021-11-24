@@ -1,9 +1,9 @@
 ## Hey, I'm Aysel! 👋
 
 
-I’m a punctual, team player and a problem solver. 
+I’m a punctual, team player and a problem solver.
 My passion is frontend development, 
-so I always keep myself updated and constantly learning. 
+so I always keep myself updated and constantly learning.  
 Focused on improving web application performance and user experience.
 
 What I'm using? 🛠
