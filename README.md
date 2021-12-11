@@ -17,6 +17,6 @@ I prefer React & React Native for web/mobile front-end, node.js technologies for
 - 💬 Ask me about anything
 
 You may find some experimental and forked projects on my repo, feel free to contribute or using them.
-Knowledge is power and it should spread across the world! 💪
+Knowledge is power and it should spread across the world! 💪.
 
 
